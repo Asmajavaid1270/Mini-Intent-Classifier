@@ -1,0 +1,1 @@
+This Python program is a Mini Intent Classifier that detects a user’s intent based on simple keyword matching. It classifies text input into categories like greeting, goodbye, thanks, food, or study. The program continuously takes user input, checks for matching keywords, and returns the corresponding intent until the user types “exit”.
